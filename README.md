@@ -9,7 +9,7 @@ The test uses Fisher's z transformation and has been numerically validated again
 Install directly from GitHub with `pip`:
 
 ```bash
-pip install git+https://github.com/ArijanaBohr/correlation-tost.git
+pip install correlation-tost
 ```
 
 **Requirements:** Python ≥ 3.9, NumPy, SciPy
